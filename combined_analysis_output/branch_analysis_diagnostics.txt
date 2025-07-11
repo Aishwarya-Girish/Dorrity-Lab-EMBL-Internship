@@ -1,0 +1,28 @@
+=== Diagnostic Summary ===
+
+Analysis: sexual_Branch_2
+  Branch time: 12.785
+  Pseudotime window: ±1.814
+  Cells in trajectory: 77
+  Cells in pseudotime window (global): 19
+  Cells in both trajectory & window: 6
+  --- Cells in window but NOT in 'sexual' trajectory ---
+  Count: 13
+    
+    Prebranch_1 Prebranch_2    Branch_1    Branch_2 
+              0           0          13           0 
+  ------------------------------------------------------
+
+Analysis: asexual_Branch_1
+  Branch time: 10.120
+  Pseudotime window: ±0.806
+  Cells in trajectory: 71
+  Cells in pseudotime window (global): 10
+  Cells in both trajectory & window: 10
+
+Analysis: early_dev_Prebranch_2
+  Branch time: 6.062
+  Pseudotime window: ±0.806
+  Cells in trajectory: 54
+  Cells in pseudotime window (global): 18
+  Cells in both trajectory & window: 18
