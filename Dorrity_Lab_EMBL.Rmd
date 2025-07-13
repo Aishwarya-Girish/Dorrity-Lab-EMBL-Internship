@@ -1552,7 +1552,13 @@ rolling_variance_branch1 <-
     color = "Cell Type"
   ) +
   theme_minimal() +
-  theme(legend.position = "bottom")
+  theme(
+    text = element_text(family = "Helvetica"),
+    plot.title = element_text(hjust = 0.5, face = "bold"),  
+    panel.border = element_rect(color = "black", fill = NA, linewidth = 0.5),  
+    plot.background = element_rect(color = "black", fill = NA, linewidth = 0.5),
+    legend.position = "bottom"
+  )
 
 # Plot for trajectory 2 (Branch 2)
 rolling_variance_branch2 <-
