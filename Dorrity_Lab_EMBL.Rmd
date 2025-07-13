@@ -1584,8 +1584,6 @@ ggsave("variance_output/rolling_variance_branch2.png", plot = rolling_variance_b
 ```
 #### 4.2. Negative Binomial Fit
 
-### Negative Binomial Modeling of Cell Type Abundance Over Pseudotime
-
 To model the abundance a cell type over pseudotime within a trajectory, a **negative binomial regression** was applied. This approach is appropriate due to the overdispersion commonly observed in single-cell count data, where the variance exceeds the mean, violating the assumptions of a Poisson distribution.
 
 The negative binomial model is defined as:
