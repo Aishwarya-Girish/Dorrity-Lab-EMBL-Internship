@@ -363,7 +363,7 @@ The working directory was set to organize data and results appropriately.
 
 ```{r working directory}
 
-setwd("/home/aishwarya/R/dorrity_lab_embl") #enter your working directory
+setwd("/Users/gaurav/Downloads/report") #enter your working directory
 
 ```
 
@@ -1501,7 +1501,7 @@ variance_summary_trajectory2 <- variance_summary_trajectory2 %>%
   mutate(p_adj = p.adjust(p_value, method = "BH")) %>%
   arrange(p_value)
 
-# --- Step 3: Plot Normalized Variance Trends for Both Trajectories ---
+# Plot Normalized Variance Trends for Both Trajectories
 
 # Top 5 cell types for both branches
 top_celltypes_trajectory1 <- head(variance_summary_trajectory1$cell_type, 5)
@@ -1546,7 +1546,7 @@ rolling_variance_branch1 <-
   geom_line(linewidth = 1) +
   geom_vline(xintercept = branch1_time, linetype = "dashed", color = "blue") +
   labs(
-    title = "Normalized Variance Around Branch Point 1",
+    title = "Normalized Variance around Branch Point 1 in asexual trajectory",
     x = "Pseudotime",
     y = "Normalized Variance",
     color = "Cell Type"
@@ -1566,7 +1566,7 @@ rolling_variance_branch2 <-
   geom_line(linewidth = 1) +
   geom_vline(xintercept = branch2_time, linetype = "dashed", color = "red") +
   labs(
-    title = "Normalized Variance Around Branch Point 2",
+    title = "Normalized Variance around Branch Point 2 in sexual trajectory",
     x = "Pseudotime",
     y = "Normalized Variance",
     color = "Cell Type"
