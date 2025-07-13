@@ -250,7 +250,7 @@ document.getElementById("theme-select").addEventListener("change", function() {
 
 ### 1. Introduction
 
-Developmental bifurcations represent critical transitions in which cells or organisms diverge into distinct phenotypic fates. The freshwater planarian _Phagocata morgani (P. morgani)_ undergoes such a bifurcation, developing into either an asexual or sexual reproductive phenotype, each associated with a distinct growth trajectory. However, the mechanisms that govern these divergent outcomes, particularly the specific cell types that drive commitment toward either fate, remain poorly understood.
+Developmental bifurcations represent critical transitions in which cells or organisms diverge into distinct phenotypic fates. The freshwater planarian _Phagocata morgani (P. morgani)_ undergoes such a bifurcation, developing into either an asexual or a sexual reproductive phenotype, each associated with a distinct growth trajectory. However, the mechanisms that govern these divergent outcomes, particularly the specific cell types that drive commitment toward either fate, remain poorly understood.
 
 **This notebook presents a quantitative framework for identifying cell-type-specific drivers of sexual and asexual growth trajectories in _P. morgani_.** A particular focus is placed on identifying cell-type behaviour around the bifurcation points as they are regions in the developmental manifold where fate decisions are likely to occur. By statistically evaluating these transitions, candidate cellular populations that may act as intermediates or determinants of reproductive fate are identified.
 
