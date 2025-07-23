@@ -2373,7 +2373,7 @@ In this formulation, covariation driven by pseudotime was captured in the covari
 Notably, the dendrogram derived from the size-independent correlation matrix identified clusters that corresponded precisely to cell types previously implicated as key drivers of the sexual and asexual trajectories in the abundance and combined analyses. This convergence across independent analytical frameworks supports the presence of biologically meaningful modules of co-regulated cell types that exhibit coordinated fluctuations beyond global developmental scaling effects. The PLN-based decomposition thus provided a principled means to separate global pseudotime effects from intrinsic regulatory associations among cell types, offering new insight into the organization of cell fate programs.
 
 
-```{r covariance matrix final, include=FALSE}
+```{r covariance matrix, include=FALSE}
 
 library(PLNmodels)
 library(hooke) 
