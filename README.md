@@ -28,7 +28,6 @@ Output Directories
 ├── combined_analysis_output/
 ├── covariance_output/
 
-
 Extras
 ├── bifurcation.jpeg # Illustration for README
 ├── worm.jpeg # Illustration used in index.html
