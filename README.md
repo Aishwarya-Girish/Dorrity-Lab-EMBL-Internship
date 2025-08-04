@@ -16,7 +16,23 @@ This repository presents a **quantitative framework** to:
 
 ## 📂 Repository Structure
 
-<pre lang="markdown"><code>## 📂 Repository Structure ``` Main Files ├── Dorrity_Lab_EMBL.Rmd # Main analysis notebook ├── size-cds-cellcounts_3e-5-highRes-cell-type.rds # Input data ├── Work_Presentation.pptx # Summary presentation of the study Output Directories ├── abundance_output/ # Cell-type abundance modeling results ├── variance_output/ # Cell-type variance analysis results ├── covariance_output/ # Covariance decomposition outputs ├── trajectory_output/ # Pseudotime and trajectory visualizations ├── combined_analysis_output/ # Summary plots and integrative outputs Extras ├── bifurcation.jpeg # Visual schematic for README ├── worm.jpeg # Illustration used in index.html ├── index.html # Rendered notebook output (optional) └── README.md # Project overview and instructions ``` </code></pre>
+├── Dorrity_Lab_EMBL.Rmd # Main analysis notebook
+├── size-cds-cellcounts_3e-5-highRes-cell-type.rds # Input data
+├── Work_Presentation.pptx # Summary presentation of the study
+
+Output Directories
+├── trajectory_output/ 
+├── abundance_output/
+├── variance_output/
+├── combined_analysis_output/
+├── covariance_output/
+
+
+Extras
+├── bifurcation.jpeg # Illustration for README
+├── worm.jpeg # Illustration used in index.html
+├── index.html # Rendered notebook output
+└── README.md # Project overview and instructions
 
 ## 📎 Requirements
 
