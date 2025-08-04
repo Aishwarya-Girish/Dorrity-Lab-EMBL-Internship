@@ -16,22 +16,7 @@ This repository presents a **quantitative framework** to:
 
 ## 📂 Repository Structure
 
-Main Files
-├── Dorrity_Lab_EMBL.Rmd # Main analysis notebook
-├── size-cds-cellcounts_3e-5-highRes-cell-type.rds # Input data
-├── Work_Presentation.pptx # Summary presentation of the study
-
-Output directories
-├── abundance_output/ # Cell-type abundance modeling results
-├── variance_output/ # Cell-type variance analysis results
-├── covariance_output/ # Covariance decomposition outputs
-├── trajectory_output/ # Pseudotime and trajectory visualizations
-├── combined_analysis_output/ # Summary plots and integrative outputs
-
-└── README.md # Project overview and usage instructions
-├── bifurcation.jpeg # Visual schematic for README.md
-├── index.html # Rendered notebook output (optional)
-├── worm.jpeg # Additional illustration for section in index.html
+<pre lang="markdown"><code>## 📂 Repository Structure ``` Main Files ├── Dorrity_Lab_EMBL.Rmd # Main analysis notebook ├── size-cds-cellcounts_3e-5-highRes-cell-type.rds # Input data ├── Work_Presentation.pptx # Summary presentation of the study Output Directories ├── abundance_output/ # Cell-type abundance modeling results ├── variance_output/ # Cell-type variance analysis results ├── covariance_output/ # Covariance decomposition outputs ├── trajectory_output/ # Pseudotime and trajectory visualizations ├── combined_analysis_output/ # Summary plots and integrative outputs Extras ├── bifurcation.jpeg # Visual schematic for README ├── worm.jpeg # Illustration used in index.html ├── index.html # Rendered notebook output (optional) └── README.md # Project overview and instructions ``` </code></pre>
 
 ## 📎 Requirements
 
@@ -48,5 +33,6 @@ To reproduce the full analysis:
 2. Open Dorrity_Lab_EMBL.Rmd in RStudio.
 3. Run the notebook or run chunks interactively to reproduce results.
 
+## 🪱 Academia Bifurcations: This is not a UMAP, it's a career path 😁
 
 ![alt text](https://github.com/Aishwarya-Girish/Dorrity-Lab-EMBL/blob/main/bifurcation.jpeg)
