@@ -1,4 +1,4 @@
-# 🪱 Developmental Bifurcations in *Phagocata morgani*
+# 🪱 Cellular Drivers of Divergent Reproductive Fates in *P. morgani*
 
 This repository contains the analysis notebook, results, and presentation slides from a study on the cellular mechanisms underlying reproductive fate decisions in the freshwater planarian *Phagocata morgani*.
 
