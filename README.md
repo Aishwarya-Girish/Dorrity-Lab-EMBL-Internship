@@ -2,7 +2,7 @@
 
 This repository contains the analysis notebook, results, and presentation slides from a study on the cellular mechanisms underlying reproductive fate decisions in the freshwater planarian *Phagocata morgani*.
 
-The project report can be viewed at 🔗[https://aishwarya-girish.github.io/Dorrity-Lab-EMBL/](https://aishwarya-girish.github.io/Dorrity-Lab-EMBL/).
+The project report can be viewed at 🔗[https://aishwarya-girish.github.io/Dorrity-Lab-EMBL-Internship/](https://aishwarya-girish.github.io/Dorrity-Lab-EMBL-Internship/).
 
 ## 🪱 Overview
 
