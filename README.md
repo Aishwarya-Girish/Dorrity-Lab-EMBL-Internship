@@ -47,7 +47,7 @@ To reproduce the full analysis:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Aishwarya-Girish/Dorrity-Lab-EMBL.git
+   git clone https://github.com/Aishwarya-Girish/Dorrity-Lab-EMBL-Internship.git
    cd Dorrity-Lab-EMBL
 2. Open `planarian_reproductive_fate_drivers.Rmd` in RStudio.
 3. Run the notebook or run chunks interactively to reproduce results.
