@@ -2,6 +2,8 @@
 
 This repository contains the analysis notebook, results, and presentation slides from a study on the cellular mechanisms underlying reproductive fate decisions in the freshwater planarian *Phagocata morgani*.
 
+The project documentation can be viewed at [🔗 https://aishwarya-girish.github.io/Dorrity-Lab-EMBL/](https://aishwarya-girish.github.io/Dorrity-Lab-EMBL/).
+
 ## 🪱 Overview
 
 Developmental bifurcations represent critical transitions where organisms diverge into distinct phenotypic fates. In *P. morgani*, individuals develop into either a **sexual** or **asexual** reproductive phenotype—each associated with a distinct growth trajectory. The specific cellular populations that guide this bifurcation remain poorly characterized.
